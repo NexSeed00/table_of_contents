@@ -2,6 +2,7 @@
 # 目次
 * [Webの仕組み](https://github.com/NexSeed00/curriculum/blob/master/doc/web/about_web_for_class.pdf)
 * [各言語の特徴](https://docs.google.com/document/d/1gZVA0q2ANe9C_RMQenLyU9lIhtVGOFl3AYKj3oQ0VyE/edit)
+* [記号の名称](https://github.com/NexSeed00/HTML_CSS/blob/master/doc/06_symbols.md)
 
 
 ## HTML
@@ -18,7 +19,7 @@
 	*  書き方
 	*  要素の構造
 	*  flex-box （[演習](https://github.com/Takeru0522/flexbox_hw)、[Flexbox-froggy](https://flexboxfroggy.com/#ja)） 
-	* 宿題
+* 宿題
 
 ## その他
  * [Bootstrap]()
