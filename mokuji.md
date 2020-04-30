@@ -14,11 +14,11 @@
 
 ## CSS
 * [CSS 基礎](https://github.com/NexSeed00/HTML_CSS/blob/master/doc/02_css_basic.md) 
- * 概要
- *  書き方
- *  要素の構造
- *  flex-box （[演習](https://github.com/Takeru0522/flexbox_hw)、[Flexbox-froggy](https://flexboxfroggy.com/#ja)） 
-* 宿題
+	* 概要
+	*  書き方
+	*  要素の構造
+	*  flex-box （[演習](https://github.com/Takeru0522/flexbox_hw)、[Flexbox-froggy](https://flexboxfroggy.com/#ja)） 
+	* 宿題
 
 ## その他
  * [Bootstrap]()
