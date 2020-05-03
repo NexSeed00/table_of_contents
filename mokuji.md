@@ -4,6 +4,8 @@
 * [各言語の特徴](https://docs.google.com/document/d/1gZVA0q2ANe9C_RMQenLyU9lIhtVGOFl3AYKj3oQ0VyE/edit)
 * [記号の名称](https://github.com/NexSeed00/HTML_CSS/blob/master/doc/06_symbols.md)
 * [命名規則・ケース](https://github.com/NexSeed00/HTML_CSS/blob/master/doc/07_cases.md)
+* [VS Codeの基本](https://github.com/NexSeed00/HTML_CSS/blob/master/doc/08_vscode.md)
+
 
 
 ## HTML
@@ -19,7 +21,7 @@
 	* 概要
 	*  書き方
 	*  要素の構造
-	*  flex-box （[演習](https://github.com/Takeru0522/flexbox)、[Flexbox-froggy](https://flexboxfroggy.com/#ja)） 
+*  flex-box （[演習](https://github.com/NexSeed00/flexbox)、[Flexbox-froggy](https://flexboxfroggy.com/#ja)） 
 * 宿題
 
 ## その他
