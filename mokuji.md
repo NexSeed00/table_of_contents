@@ -25,9 +25,12 @@
 * 宿題
 
 ## その他
- * [Bootstrap]()
+* [自己紹介サイト : サンプルコード](https://github.com/NexSeed00/My_Website)
+	* [画像](https://drive.google.com/open?id=1H90sY7V6DNioDNseuxrJu_RvfWQxMp_g)	
+	* [デザインカンプ](https://drive.google.com/open?id=1thv1b2gtBc9lUNksOla_QUBFza7Vj_72)
+* [Bootstrap]()
 * [レスポンシブ]()
-* [アニメーション]()
+* [アニメーション](https://github.com/NexSeed00/HTML_CSS/blob/master/doc/12_animation.md)
 * [公開の仕方]()
 
 <!--## Bootstrap
