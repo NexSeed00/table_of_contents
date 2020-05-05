@@ -25,13 +25,20 @@
 * 宿題
 
 ## その他
-* [自己紹介サイト : サンプルコード](https://github.com/NexSeed00/My_Website)
-	* [画像](https://drive.google.com/open?id=1H90sY7V6DNioDNseuxrJu_RvfWQxMp_g)	
+* ウェブサイト制作（Welcome to NexSeed）
+	* [サンプルコード](https://github.com/NexSeed00/Welcome_to_NexSeed)
+	* [完成したアプリ](https://heuristic-kilby-bf0e3e.netlify.app/)
+* 自己紹介サイト
+	* [サンプルコード](https://github.com/NexSeed00/My_Website)
+	* [完成したアプリ](https://heuristic-shockley-4fb208.netlify.app/)
+	* [素材画像](https://drive.google.com/open?id=1H90sY7V6DNioDNseuxrJu_RvfWQxMp_g)	
 	* [デザインカンプ](https://drive.google.com/open?id=1thv1b2gtBc9lUNksOla_QUBFza7Vj_72)
 * [Bootstrap]()
 * [レスポンシブ]()
 * [アニメーション](https://github.com/NexSeed00/HTML_CSS/blob/master/doc/12_animation.md)
 * [公開の仕方]()
+
+
 
 <!--## Bootstrap
  * [Bootstrap 基礎]()
