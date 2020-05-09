@@ -5,6 +5,8 @@
 * [記号の名称](https://github.com/NexSeed00/HTML_CSS/blob/master/doc/06_symbols.md)
 * [命名規則・ケース](https://github.com/NexSeed00/HTML_CSS/blob/master/doc/07_cases.md)
 * [VS Codeの基本](https://github.com/NexSeed00/HTML_CSS/blob/master/doc/08_vscode.md)
+* [ウェブサイト公開方法](https://github.com/NexSeed00/deploy_on_rental_server)
+* [GitHub](https://github.com/NexSeed00/github)
 
 
 
@@ -28,23 +30,28 @@
 * ウェブサイト制作（Welcome to NexSeed）
 	* [サンプルコード](https://github.com/NexSeed00/Welcome_to_NexSeed)
 	* [完成したアプリ](https://heuristic-kilby-bf0e3e.netlify.app/)
+	* [素材画像](https://drive.google.com/open?id=152nXWklITMh29hLkq4qbeIYklSOsX6WW)
+* ウェブサイト制作（Explore World）
+	* [サンプルコード](https://github.com/NexSeed00/Explore_World)
+	* [完成したアプリ](https://cocky-kalam-936bf7.netlify.app)
+	* [素材画像](https://drive.google.com/drive/folders/1bwxPspqhKQKySfbt13VHzdwODh8GxeZC?usp=sharing)
 * 自己紹介サイト
 	* [サンプルコード](https://github.com/NexSeed00/My_Website)
 	* [完成したアプリ](https://heuristic-shockley-4fb208.netlify.app/)
 	* [素材画像](https://drive.google.com/open?id=1H90sY7V6DNioDNseuxrJu_RvfWQxMp_g)	
 	* [デザインカンプ](https://drive.google.com/open?id=1thv1b2gtBc9lUNksOla_QUBFza7Vj_72)
-* [Bootstrap]()
-* [レスポンシブ]()
+* [Bootstrap](https://github.com/NexSeed00/Bootstrap_basic)
+* [レスポンシブ](https://github.com/NexSeed00/HTML_CSS/blob/master/doc/11_responsive.md)
 * [アニメーション](https://github.com/NexSeed00/HTML_CSS/blob/master/doc/12_animation.md)
-* [公開の仕方]()
+* [アイコン](https://github.com/NexSeed00/HTML_CSS/blob/master/doc/10_icons.md)
+
+
+
 
 
 
 <!--## Bootstrap
  * [Bootstrap 基礎]()
-
-## レスポンシブ
-* [基礎]()
 
 ## アニメーション
 * [基礎]()
