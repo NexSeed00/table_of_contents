@@ -6,7 +6,9 @@
 * [命名規則・ケース](https://github.com/NexSeed00/HTML_CSS/blob/master/doc/07_cases.md)
 * [VS Codeの基本](https://github.com/NexSeed00/HTML_CSS/blob/master/doc/08_vscode.md)
 * [ウェブサイト公開方法](https://github.com/NexSeed00/deploy_on_rental_server)
-* [GitHub](https://github.com/NexSeed00/github)
+* [GitとGitHubの概念](https://github.com/NexSeed00/git_basic)
+* [GitHubにファイルをアップロードする手順](https://github.com/NexSeed00/github)
+
 
 
 
