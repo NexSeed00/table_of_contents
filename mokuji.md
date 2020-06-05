@@ -8,6 +8,7 @@
 * [ウェブサイト公開方法](https://github.com/NexSeed00/deploy_on_rental_server)
 * [GitとGitHubの概念](https://github.com/NexSeed00/git_basic)
 * [GitHubにファイルをアップロードする手順](https://github.com/NexSeed00/github)
+* [Netlifyで公開](https://github.com/NexSeed00/netlify)
 
 
 
@@ -25,10 +26,14 @@
 	* 概要
 	*  書き方
 	*  要素の構造
-*  flex-box （[演習](https://github.com/NexSeed00/flexbox)、[Flexbox-froggy](https://flexboxfroggy.com/#ja)） 
+	*  [よく使うプロパティ一覧](https://github.com/NexSeed00/css_properties)
+*  [flexbox](https://github.com/NexSeed00/HTML_CSS/blob/master/doc/04_flexbox.md) （[演習１](https://github.com/NexSeed00/flexbox)、[演習２]()、[Flexbox-froggy](https://flexboxfroggy.com/#ja)） 
 * 宿題
 
 ## その他
+
+
+
 * ウェブサイト制作（Welcome to NexSeed）
 	* [サンプルコード](https://github.com/NexSeed00/Welcome_to_NexSeed)
 	* [完成したアプリ](https://heuristic-kilby-bf0e3e.netlify.app/)
@@ -46,7 +51,7 @@
 * [レスポンシブ](https://github.com/NexSeed00/HTML_CSS/blob/master/doc/11_responsive.md)
 * [アニメーション](https://github.com/NexSeed00/HTML_CSS/blob/master/doc/12_animation.md)
 * [アイコン](https://github.com/NexSeed00/HTML_CSS/blob/master/doc/10_icons.md)
-
+* [Google Fonts](https://github.com/NexSeed00/HTML_CSS/blob/master/doc/09_fonts.md)
 
 
 
