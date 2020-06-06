@@ -5,7 +5,7 @@
 * [記号の名称](https://github.com/NexSeed00/HTML_CSS/blob/master/doc/06_symbols.md)
 * [命名規則・ケース](https://github.com/NexSeed00/HTML_CSS/blob/master/doc/07_cases.md)
 * [VS Codeの基本](https://github.com/NexSeed00/HTML_CSS/blob/master/doc/08_vscode.md)
-* [ウェブサイト公開方法](https://github.com/NexSeed00/deploy_on_rental_server)
+* [ドメインとレンタルサーバーでウェブサイトを公開する方法](https://github.com/NexSeed00/deploy_on_rental_server)
 * [GitとGitHubの概念](https://github.com/NexSeed00/git_basic)
 * [GitHubにファイルをアップロードする手順](https://github.com/NexSeed00/github)
 * [Netlifyで公開](https://github.com/NexSeed00/netlify)
@@ -33,7 +33,6 @@
 ## その他
 
 
-
 * ウェブサイト制作（Welcome to NexSeed）
 	* [サンプルコード](https://github.com/NexSeed00/Welcome_to_NexSeed)
 	* [完成したアプリ](https://heuristic-kilby-bf0e3e.netlify.app/)
@@ -52,9 +51,19 @@
 * [アニメーション](https://github.com/NexSeed00/HTML_CSS/blob/master/doc/12_animation.md)
 * [アイコン](https://github.com/NexSeed00/HTML_CSS/blob/master/doc/10_icons.md)
 * [Google Fonts](https://github.com/NexSeed00/HTML_CSS/blob/master/doc/09_fonts.md)
+
+
 * 画像素材サイト
   * [Unsplash](https://unsplash.com/)
   * [Pexels](https://www.pexels.com/ja-jp/)
+
+* HTML / CSS 練習問題
+  * お問い合わせフォーム
+    * [見本]()
+    * [ソースコード]()
+  * 企業サイト
+    * [見本]()
+    * [ソースコード]()
 
 
 
