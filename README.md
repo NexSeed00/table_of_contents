@@ -29,7 +29,8 @@
 	*  要素の構造
 	*  [よく使うプロパティ一覧](https://github.com/NexSeed00/css_properties)
 *  [flexbox](https://github.com/NexSeed00/HTML_CSS/blob/master/doc/04_flexbox.md) （[演習１](https://github.com/NexSeed00/flexbox)、[演習２](https://github.com/NexSeed00/flexbox-hw-2)、[Flexbox-froggy](https://flexboxfroggy.com/#ja)） 
-* 宿題
+* [宿題]()
+* [レスポンシブ&flexbox演習問題](https://github.com/NexSeed00/responsive_practice)
 
 ## その他
 
@@ -61,7 +62,7 @@
 * HTML / CSS 練習問題
   * お問い合わせフォーム
     * [デザインカンプ](https://xd.adobe.com/spec/2d42f2ad-6140-42b5-55b0-df4c84cc5a5d-5b73/)
-    * [ソースコード](https://github.com/Takeru0522/contact_form)
+    * [ソースコード](https://github.com/NexSeed00/contact_form)
   * 企業サイト
     * [デザインカンプ](https://xd.adobe.com/spec/3590c236-ae02-414a-5881-a073545703f5-43a1/)
     * [ソースコード(未)]()
