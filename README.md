@@ -28,12 +28,11 @@
 	*  書き方
 	*  要素の構造
 	*  [よく使うプロパティ一覧](https://github.com/NexSeed00/css_properties)
-*  [flexbox](https://github.com/NexSeed00/HTML_CSS/blob/master/doc/04_flexbox.md) （[演習１](https://github.com/NexSeed00/flexbox)、[演習２](https://github.com/NexSeed00/flexbox-hw-2)、[Flexbox-froggy](https://flexboxfroggy.com/#ja)） 
+*  [flexbox](https://github.com/NexSeed00/HTML_CSS/blob/master/doc/04_flexbox.md) （[演習１](https://github.com/NexSeed00/flexbox)、[演習２：日本の国旗](https://github.com/NexSeed00/flexbox-hw-2)、[演習３：イングランドの国旗](https://github.com/NexSeed00/flexbox_flag_england)、[Flexbox-froggy](https://flexboxfroggy.com/#ja)） 
 * [宿題]()
 * [レスポンシブ&flexbox演習問題](https://github.com/NexSeed00/responsive_practice)
 
 ## その他
-
 
 * ウェブサイト制作（Welcome to NexSeed）
 	* [サンプルコード](https://github.com/NexSeed00/Welcome_to_NexSeed)
