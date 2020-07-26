@@ -1,7 +1,7 @@
 ## ITオンライン短期コース
 # 目次
 * [Webの仕組み](https://github.com/NexSeed00/curriculum/blob/master/doc/web/about_web_for_class.pdf)
-* [各言語の特徴](https://docs.google.com/document/d/1gZVA0q2ANe9C_RMQenLyU9lIhtVGOFl3AYKj3oQ0VyE/edit)
+* [言語の種類 / 市場 / 強み](https://github.com/NexSeed00/Languages)
 * [記号の名称](https://github.com/NexSeed00/HTML_CSS/blob/master/doc/06_symbols.md)
 * [命名規則・ケース](https://github.com/NexSeed00/HTML_CSS/blob/master/doc/07_cases.md)
 * [VS Codeの基本](https://github.com/NexSeed00/HTML_CSS/blob/master/doc/08_vscode.md)
