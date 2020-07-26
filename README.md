@@ -37,7 +37,7 @@
 * ウェブサイト制作（Welcome to NexSeed）
 	* [サンプルコード](https://github.com/NexSeed00/Welcome_to_NexSeed)
 	* [完成したアプリ](https://heuristic-kilby-bf0e3e.netlify.app/)
-	* [素材画像](https://drive.google.com/open?id=152nXWklITMh29hLkq4qbeIYklSOsX6WW)
+	* [素材画像](https://github.com/NexSeed00/Welcome_to_NexSeed/blob/master/assets/img.zip?raw=true)
 * ウェブサイト制作（Explore World）
 	* [サンプルコード](https://github.com/NexSeed00/Explore_World)
 	* [完成したアプリ](https://cocky-kalam-936bf7.netlify.app)
