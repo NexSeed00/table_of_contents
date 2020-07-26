@@ -41,7 +41,7 @@
 * ウェブサイト制作（Explore World）
 	* [サンプルコード](https://github.com/NexSeed00/Explore_World)
 	* [完成したアプリ](https://cocky-kalam-936bf7.netlify.app)
-	* [素材画像](https://drive.google.com/drive/folders/1bwxPspqhKQKySfbt13VHzdwODh8GxeZC?usp=sharing)
+	* [素材画像](https://github.com/NexSeed00/Explore_World/blob/master/img.zip?raw=true)
 * 自己紹介サイト
 	* [サンプルコード](https://github.com/NexSeed00/My_Website)
 	* [完成したアプリ](https://heuristic-shockley-4fb208.netlify.app/)
