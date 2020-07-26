@@ -37,15 +37,15 @@
 * ウェブサイト制作（Welcome to NexSeed）
 	* [サンプルコード](https://github.com/NexSeed00/Welcome_to_NexSeed)
 	* [完成したアプリ](https://heuristic-kilby-bf0e3e.netlify.app/)
-	* [素材画像](https://github.com/NexSeed00/Welcome_to_NexSeed/blob/master/assets/img.zip?raw=true)
+	* [画像素材ダウンロード](https://github.com/NexSeed00/Welcome_to_NexSeed/blob/master/assets/img.zip?raw=true)
 * ウェブサイト制作（Explore World）
 	* [サンプルコード](https://github.com/NexSeed00/Explore_World)
 	* [完成したアプリ](https://cocky-kalam-936bf7.netlify.app)
-	* [素材画像](https://github.com/NexSeed00/Explore_World/blob/master/img.zip?raw=true)
+	* [画像素材ダウンロード](https://github.com/NexSeed00/Explore_World/blob/master/img.zip?raw=true)
 * 自己紹介サイト
 	* [サンプルコード](https://github.com/NexSeed00/My_Website)
 	* [完成したアプリ](https://heuristic-shockley-4fb208.netlify.app/)
-	* [素材画像](https://drive.google.com/open?id=1H90sY7V6DNioDNseuxrJu_RvfWQxMp_g)	
+	* [画像素材ダウンロード](https://github.com/NexSeed00/My_Website/blob/master/img.zip?raw=true)	
 	* [デザインカンプ](https://drive.google.com/open?id=1thv1b2gtBc9lUNksOla_QUBFza7Vj_72)
 * [Bootstrap](https://github.com/NexSeed00/Bootstrap_basic)
 * [レスポンシブ](https://github.com/NexSeed00/HTML_CSS/blob/master/doc/11_responsive.md)
