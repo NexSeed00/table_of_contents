@@ -1,4 +1,4 @@
-## ITオンライン短期コース
+## 短期コース
 # 目次
 * [Webの仕組み](https://github.com/NexSeed00/curriculum/blob/master/doc/web/about_web_for_class.pdf)
 * [言語の種類 / 市場 / 強み](https://github.com/NexSeed00/Languages)
